@@ -1,3 +1,3 @@
 function rickroll() {
-	location.href = "https://www.youtube.com/watch?v=dQw4w9WgXcQ";
+	location.href = "https:/fel1x0u.github.io/files/mc.mp4";
 }
