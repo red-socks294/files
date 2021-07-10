@@ -1,3 +1,3 @@
 function rickroll() {
-	location.href = "/mc.mp4";
+	location.href = "/files/mc.mp4";
 }
